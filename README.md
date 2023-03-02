@@ -1,5 +1,9 @@
 # Udemy Android TDD Masterclass - Coroutines, Jetpack
 
+## TODO
+1) Write integration test
+2) Fix behavior issue on init in jetpack compose
+
 ## Course
 https://www.udemy.com/share/103LUQ3@-FjbySN-ayzfUUSjOX53RCnEaX4K23sYv9iBdyHxPslclITq3lX8uifAYh8kPWfZ/
 
